@@ -52,7 +52,7 @@ The game is designed to combine **computional thinking** with **inclusive and pl
 If you use this software for your research, please cite it using the DOI:
 
 **APA Format (7th Ed.):**
-> Bilgin, M. (2025). *TOKADI Robot Simulator* (Betaversion 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo......
+> Bilgin, M. (2025). *TOKADI Robot Simulator* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo......
 
 **BibTeX:**
 ```bibtex
