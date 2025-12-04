@@ -56,7 +56,7 @@ If you use this software for your research, please cite it using the DOI:
 
 **BibTeX:**
 ```bibtex
-@software{BeanMerger,
+@software{TOKADIrobotSimulator,
   author       = {Bilgin, Mustafa},
   title        = {TOKADI Robot Simulator -  Digital Twin of the TOKADI Inclusive Robot},
   year         = {2025},
