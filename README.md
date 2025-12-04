@@ -32,3 +32,41 @@ This simulation serves as a bridge between abstract planning and physical action
 - Keyboard Support: Fully playable via arrow keys for accessibility.
 
 - Zero Setup: Runs directly in any modern web browser.
+
+---
+
+## Demo
+Click here to try out:
+[TOKADI Robot Simulator Demo](https://robots4inclusion.eu/tokadi/game/)
+
+---
+
+## Author
+Developed by **Mustafa Bilgin** as part of the *Robots4Inclusion* project.  
+The game is designed to combine **computional thinking** with **inclusive and playful educational approaches**.
+
+---
+
+## Citation
+
+If you use this software for your research, please cite it using the DOI:
+
+**APA Format (7th Ed.):**
+> Bilgin, M. (2025). *TOKADI Robot Simulator* (Betaversion 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo......
+
+**BibTeX:**
+```bibtex
+@software{BeanMerger,
+  author       = {Bilgin, Mustafa},
+  title        = {TOKADI Robot Simulator -  Digital Twin of the TOKADI Inclusive Robot},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.....},
+  url          = {[https://doi.org/10.5281/zenodo....](https://doi.org/10.5281/zenodo....)}  
+}
+
+```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
